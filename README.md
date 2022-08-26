@@ -10,4 +10,7 @@
 5. Carlos Andres Heredia Valoyes - ```Developer```
 6. Beldrian Palacios Quintero - ```Developer```
 
+## Front-end: https://github.com/T-WhiteCode09/front-pyman-react
+## Back-end: https://github.com/T-WhiteCode09/back-pyman-flask
+
 &copy; 2022
